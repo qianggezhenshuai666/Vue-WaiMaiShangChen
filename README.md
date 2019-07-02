@@ -26,5 +26,11 @@
 	
 	
 ## 4. 截图展示
+![image](https://github.com/qianggezhenshuai666/Vue-WaiMaiShangChen/blob/master/image/01.JPG)
 
+![image](https://github.com/qianggezhenshuai666/Vue-WaiMaiShangChen/blob/master/image/02.jpg)
+
+![image](https://github.com/qianggezhenshuai666/Vue-WaiMaiShangChen/blob/master/image/03.jpg)
+
+![image](https://github.com/qianggezhenshuai666/Vue-WaiMaiShangChen/blob/master/image/04.jpg)
 
